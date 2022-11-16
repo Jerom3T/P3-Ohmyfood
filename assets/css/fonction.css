@@ -1,0 +1,65 @@
+
+h2{
+    margin:0;
+    display: flex;
+    justify-content: center;
+}
+.fonction h1{
+    font-size: 25px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+.fonction ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    list-style-type: none;
+    margin:0;
+    padding:20px 0px 50px 10px;
+    gap: 20px;
+}
+.fonction ul span{
+    border: 3px solid transparent;
+    padding: 6px 10px;
+    border-radius: 50%;
+    background-color: var(--first);
+    color: white;
+    position: relative;
+    right: 20px;
+}
+.fonction li{
+    padding:20px 10px 20px 0px;
+    box-shadow: 5px 5px 5px lightgrey;
+    border: 3px solid transparent;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 300px;
+    flex-wrap: wrap;
+    font-weight: bold;
+    cursor: pointer;
+    transform: scale(1); 
+    transition-duration: 1.2s;
+    opacity: 0.8;
+}
+.fonction li:hover{
+    transform: scale(1.1);
+}
+.store{
+    border-radius: 25px;
+    background-color: var(--first2);
+    border: 3px solid transparent;
+}
+.store i{
+    color: var(--first);
+}
+
+li i{
+    font-size: 20px;
+    margin: 0;
+    padding-right: 20px;
+    color: lightgrey;
+}
+
+
