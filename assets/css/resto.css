@@ -14,12 +14,10 @@
     justify-content: center;
     flex-wrap: wrap;
     gap: 30px;
-    padding: 30px;
-    padding-top: 10px;
-    padding-bottom: 50px;
+    padding: 10px 20px 30px 20px;
 }
 .cards img{
-    width: 350px;
+    width: 330px;
     height: 180px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
@@ -27,7 +25,7 @@
 }
 .cards{
     border-radius: 25px;
-    width: 350px;
+    width: 330px;
     height: 250px;
     transform: scale(1); 
     transition-duration: 1.2s;
@@ -63,7 +61,7 @@
     font-size: 30px;
     position: relative;
     bottom: 28px;
-    left:55px;
+    left:35px;
 }
 .infocards i:hover{
     font-weight: bold;
@@ -78,7 +76,7 @@
     padding: 5px 10px;
     border-radius: 5px;
     position: relative;
-    left: 255px;
+    left: 235px;
     bottom: 170px;
     background-color: var(--third);
     margin: 0;

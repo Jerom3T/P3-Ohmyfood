@@ -12,6 +12,7 @@ body h1{
     padding-top: 30px;
 }
 
+/* Animation Loader */
 
 .section{
     text-align:center;
@@ -29,7 +30,7 @@ body h1{
     animation-fill-mode:forwards ;
 }
 
-.loader {
+.loader{
     width: 108px;
     height: 108px;
     margin: auto;
