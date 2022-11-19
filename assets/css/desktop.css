@@ -82,12 +82,15 @@
     }
     .entrees{
         width: 450px;
+        flex-direction: column;
     }
     .plats{
         width: 450px;
+        justify-content: flex-start;
     }
     .desserts{
         width: 450px;
+        justify-content: flex-start;
     }
     .menu{
         display: flex;
