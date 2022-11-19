@@ -1,11 +1,11 @@
 
 .resa p{
     margin:0;
-    padding:0;
+    padding-top:40px;
     display: flex;
     justify-content:center;
     text-align: center;
-    font-size: 25px;
+    font-size: 29px;
     font-weight: bold;
 }
 .resa{
@@ -17,7 +17,8 @@
     text-align: center;
     flex-wrap: wrap;
     font-weight:inherit;
-    gap: 30px;
+    gap: 20px;
+    background-color:rgba(211, 211, 211, 0.057);
 }
 .resa a{
     text-decoration: none;
