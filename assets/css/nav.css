@@ -9,7 +9,7 @@
     font-weight: bold;
 }
 .resa{
-    padding: 10px 30px 30px 30px;
+    padding: 10px 30px 50px 30px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -19,6 +19,9 @@
     font-weight:inherit;
     gap: 20px;
     background-color:rgba(211, 211, 211, 0.057);
+}
+.resa span{
+    font-size: 18px;
 }
 .resa a{
     text-decoration: none;

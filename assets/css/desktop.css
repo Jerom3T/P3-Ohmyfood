@@ -50,9 +50,7 @@
         display: flex;
         justify-content: space-around;
         background-color: rgb(229, 229, 229);
-
     }
-    
     .resa{
         padding: 10px 30px 30px 30px;
         display: flex;
@@ -75,17 +73,24 @@
         padding-bottom: 50px;
         gap: 20px;
     }
-
-    .main{
-        display: flex;
-        justify-content: center;
-        gap: 10px;
-    }
     #resultscards h1 {
-        font-size: 25px;
+        font-size: 35px;
         display: flex;
         justify-content: center;
         padding-left: 20px;
+    }
+    article{
+        display: flex;
+        justify-content: center;
+    }
+    .entrees{
+        width: 450px;
+    }
+    .plats{
+        width: 450px;
+    }
+    .desserts{
+        width: 450px;
     }
     .menu{
         display: flex;
@@ -112,12 +117,9 @@
         display: flex;
         justify-content: center;
     }
-
-    
-.footer{
+    .footer{
     display: flex;
     justify-content: center;
-
 }
     .footer ul{
         display: flex;
