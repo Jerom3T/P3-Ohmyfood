@@ -17,15 +17,15 @@
     padding-bottom: 50px;
 }
 .cards img{
-    width: 300px;
-    height: 150px;
+    width: 350px;
+    height: 180px;
     border-top-right-radius: 25px;
     border-top-left-radius: 25px;
     object-fit: cover;
 }
 .cards{
     border-radius: 25px;
-    width: 300px;
+    width: 350px;
     height: 250px;
     transform: scale(1); 
     transition-duration: 1.2s;
@@ -61,6 +61,7 @@
     font-size: 30px;
     position: relative;
     bottom: 28px;
+    left:55px;
 }
 .infocards i:hover{
     font-weight: bold;
@@ -75,8 +76,8 @@
     padding: 5px 10px;
     border-radius: 5px;
     position: relative;
-    left: 200px;
-    bottom: 140px;
+    left: 255px;
+    bottom: 170px;
     background-color: var(--third);
     margin: 0;
     color: green;
