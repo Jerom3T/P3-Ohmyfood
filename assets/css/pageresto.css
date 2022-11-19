@@ -97,7 +97,7 @@
 }
 .plats{
     animation: fadein 1s linear;
-    animation-delay: 1s;
+    animation-delay: 1.5s;
     animation-fill-mode: both;
     padding: 10px;
     display: flex;
@@ -108,7 +108,7 @@
 }
 .desserts{
     animation: fadein 1s linear;
-    animation-delay: 1.5s;
+    animation-delay: 2.5s;
     animation-fill-mode: both;
     padding: 10px;
     display: flex;
