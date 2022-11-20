@@ -67,9 +67,10 @@
         justify-content: center;
         padding-left: 20px;
     }
-    article{
+    article {
         display: flex;
         justify-content: center;
+
     }
     .entrees{
         width: 450px;
@@ -82,19 +83,6 @@
     .desserts{
         width: 450px;
         justify-content: flex-start;
-    }
-    .menu{
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        width: 100%;
-    }
-    .menu1{
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        gap: 30px;
-        width: 350px;
     }
     .titre{
         display: flex;
