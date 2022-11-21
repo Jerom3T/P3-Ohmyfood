@@ -23,6 +23,12 @@
     color: white;
     font-size: 18px;
 }
+.footer a:hover{
+    color: var(--third);
+}
+.footer i:hover{
+    color: var(--third);
+}
 .footer li{
     padding: 5px;
 }

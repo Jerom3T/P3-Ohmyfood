@@ -12,6 +12,9 @@
     padding: 30px 50px 30px 0px;
     color: black;
 }
+.logo2 i:hover{
+    color: var(--third);
+}
 
 /* Image */
 
@@ -40,7 +43,8 @@
     justify-content: flex-start;
     font-weight: 100;
     font-size: 18px;
-    padding: 20px 0px 5px 0px;
+    margin-left: 10px;
+    padding: 20px 0px 0px 0px;
     width: 45px;
     border-bottom: 3px solid var(--third);
 }
