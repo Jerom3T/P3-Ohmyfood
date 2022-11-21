@@ -1,13 +1,9 @@
 
-h2{
-    margin:0;
-    display: flex;
-    justify-content: center;
-}
-.fonction h1{
+
+.fonction h2{
     font-size: 25px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     padding-left: 20px;
 }
 .fonction ul{
