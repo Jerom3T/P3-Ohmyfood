@@ -41,6 +41,8 @@
 }
 .fonction li:hover{
     transform: scale(1.1);
+    box-shadow: 5px 5px 5px rgb(65, 65, 65);
+
 }
 .store{
     border-radius: 25px;

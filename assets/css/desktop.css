@@ -67,7 +67,7 @@
     .results h2{
         padding-right: 30px;
     }
-    #resultscards h1 {
+    #resultscards h2 {
         display: flex;
         justify-content: center;
         padding-left: 20px;
@@ -126,11 +126,6 @@
         display: flex;
         justify-content: center;
         }
-    #resultscards h1 {
-        font-size: 35px;
-        display: flex;
-        justify-content: center;
-        }
     .image img{
         z-index: 0;
         width: 100%;
@@ -147,7 +142,11 @@
         width: 100%;
         height: 60px;
     }
-
+    #resultscards h2 {
+        display: flex;
+        justify-content: center;
+        padding-left: 20px;
+    }
 }
 @media screen and (min-width:300px){
     .logo2 {
@@ -156,6 +155,11 @@
         justify-content: center;
         margin: 0;
         padding-top: 20px;
+    }
+    #resultscards h2 {
+        display: flex;
+        justify-content: center;
+        padding-left: 20px;
     }
     }
 
